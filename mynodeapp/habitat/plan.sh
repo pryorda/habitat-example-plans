@@ -1,5 +1,5 @@
-pkg_origin=myorigin
-pkg_name=mytutorialapp
+pkg_origin=pryorda-priv
+pkg_name=pryorda-priv-demo
 pkg_version="0.2.0"
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_upstream_url=https://github.com/habitat-sh/habitat-example-plans
