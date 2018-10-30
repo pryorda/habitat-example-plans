@@ -1,6 +1,6 @@
 {
     "name": "mytutorialapp",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Node.js app for the Habitat tutorials",
     "author": "First Last <first.last@example.com>",
     "license": "MIT",
